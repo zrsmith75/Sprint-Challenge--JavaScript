@@ -31,7 +31,7 @@ class CuboidMaker {
   Formula for cuboid volume: length * width * height
 */
 
-See above step 1
+
 
 
 
@@ -41,7 +41,7 @@ See above step 1
   Formula for cuboid surface area of a cube: 2 * (length * width + length * height + width * height)
 */
 
-See above step 1
+
 
 /* == Step 4: Create a new object that uses CuboidMaker ==
   Create a cuboid object that uses the new keyword to use our CuboidMaker constructor
