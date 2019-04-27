@@ -7,10 +7,10 @@
 */
 
 class CuboidMaker {
-  constructor(properties) {
-    this.length = properties.length,
-    this.width = properties.width,
-    this.height = properties,
+  constructor(attributes) {
+    this.length = attributes.length;
+    this.width = attributes.width;
+    this.height = attributes.height;
   }
 
   // step 2: volume method
