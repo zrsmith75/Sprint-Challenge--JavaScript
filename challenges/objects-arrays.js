@@ -9,6 +9,7 @@
 // tyrannosaurus, carnivorous, 7000kg, 12m, Late Cretaceous
 
 const tyrannosaurus = {
+  id: 1,
   diet: 'carnivorous',
   weight: '7000kg',
   length: '12m',
@@ -21,6 +22,7 @@ const tyrannosaurus = {
 // stegosaurus, herbivorous, 2000kg, 9m, Late Jurassic
 
 const stegosaurus = {
+  id: 2,
   diet: 'herbivorous',
   weight: '2000kg',
   length: '9m',
@@ -30,6 +32,7 @@ const stegosaurus = {
 // velociraptor, carnivorous, 15kg, 1.8m, Late Cretaceous
 
 const velociraptor = {
+  id: 3,
   diet: 'carnivorous',
   weight: '15kg',
   length: '1.8m',
